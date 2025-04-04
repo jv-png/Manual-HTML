@@ -1,0 +1,37 @@
+              body{
+                 background-color:#4682B4;
+                 font-family: Arial, Helvetica, sans-serif;     
+               }
+
+               h1{
+                 color:#ffffff;
+                 margin-left: 43%
+                }
+              
+                h2{
+                 color:#ffffff;
+                }
+
+                h3{
+                 color:#FFFFFF;
+                }
+
+                h4{
+                 color:#FFFFFF;
+                }
+
+                table{
+            color: #2F4F4F;
+            transition: color 0.3s, transform 0.3s;
+            margin-left:28%;
+          }
+
+            table:hover {
+              color: #2F4F4F;
+              transform: scale(1.1);
+          }
+                li{
+                  color:#FFFFFF;
+                }
+
+                
